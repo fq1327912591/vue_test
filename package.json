@@ -28,6 +28,7 @@
     "babel-eslint": "^10.1.0",
     "chromedriver": "81",
     "eslint": "^6.7.2",
+    "eslint-plugin-html": "^3.2.2",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
@@ -36,6 +37,7 @@
     "geckodriver": "^1.19.1",
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
+    "standard": "^14.3.3",
     "vue-template-compiler": "^2.6.11"
   }
 }
